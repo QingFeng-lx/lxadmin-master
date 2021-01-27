@@ -1,0 +1,6 @@
+# 应用名称
+spring:
+  application:
+    name: lxadmin-system
+server:
+  port: 8600
