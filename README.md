@@ -6,7 +6,7 @@
 #### 项目简介
 一个基于 Spring Boot 2.1.0 、 Mybatis plus、 JWT、Spring Shiro、Redis、Vue的前后端分离的后台管理系统
 
-**开发文档：**  [http://lxadmin.qingfenglx.xyz](http://lxadmin.qingfenglx.xyz)
+**开发文档：**  [http://doc.lxadmin.qingfenglx.xyz](http://doc.lxadmin.qingfenglx.xyz)
 
 **体验地址：**  [http://lxadmin.qingfenglx.xyz](http://lxadmin.qingfenglx.xyz)
 
