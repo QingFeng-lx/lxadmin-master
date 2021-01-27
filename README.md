@@ -16,8 +16,8 @@
 
 |     |   后端源码  |   前端源码  |
 |---  |--- | --- |
-|  github   |  https://github.com/QingFeng-lx/lxadmin   |  https://github.com/QingFeng-lx/lxadmin-web   |
-|  码云   |  https://gitee.com/QingFeng-lx/lxadmin   |  https://gitee.com/QingFeng-lx/lxadmin-web   |
+|  github   |  https://github.com/QingFeng-lx/lxadmin-master   |  https://github.com/QingFeng-lx/lxadmin-web   |
+|  码云   |  https://gitee.com/QingFeng-lx/lxadmin-master   |  https://gitee.com/QingFeng-lx/lxadmin-web   |
 
 #### 主要特性
 - 使用最新技术栈，社区资源丰富。
